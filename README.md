@@ -1,1 +1,3 @@
-CSCI 467 Project
+# CSCI 467 
+
+Final Project (AutoShop)
